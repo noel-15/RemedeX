@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+downloaded_extensions/
+*.crx
+*.zip
+
+# Local QA / scratch (not for publication)
+_qa_out/
+.cursor/
+
+# Logs
+*.log
